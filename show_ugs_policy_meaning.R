@@ -42,7 +42,7 @@ observations_at_quantile <- out_ndvi_m[which.min(abs(out_ndvi_m$out_b_mean - qua
 
 library(googleway)
 
-key <- "AIzaSyABAy4zgNg6P41_RlFIEa0JBo9W8o4866g"
+key <- "yourkey"
 
 stub <- 'F:/.shortcut-targets-by-id/13znqeVDfPULc4J_lQLbyW_Kmfa03o63F/3-Research/GIACOMO/systemic cooling poverty/glob_assess_energy_demand_reduction_potential/seme_data'
 setwd(stub)
@@ -85,3 +85,4 @@ google_streetview(location = c(observations_at_quantile$y, observations_at_quant
 dev.print(pdf, paste0('rome_q3_gvi_', round(observations_at_quantile$out_b_mean, 0), '.pdf'))
 
 #####
+
