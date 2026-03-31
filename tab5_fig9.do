@@ -2,7 +2,6 @@
 * Author: Jacopo Lunghi
 * Last modified: 5 June 2024
 * Paper: Street green space and electricity demand: Evidence from metered consumption data
-* Analysis of billing and consumption
 * Replication code of Figure 9 and Table 5
 *******************************************************************************
 
