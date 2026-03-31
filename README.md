@@ -1,4 +1,4 @@
-# Replication for the paper "Street green space and electricity demand: evidence from metered consumption data" (Falchetta, De Cian, Lunghi, 2025)
+# Replication for the paper "Street green space and electricity demand: evidence from metered consumption data" (Falchetta, De Cian, Lunghi, 2026)
 Replication codes for Giacomo Falchetta, Enrica De Cian, Jacopo Lunghi, "**Street green space and electricity demand: evidence from metered consumption data**" \[Energy Economics\]
 
 [giacomo.falchetta@cmcc.it](mailto:giacomo.falchetta@cmcc.it)
