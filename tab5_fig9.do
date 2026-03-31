@@ -1,5 +1,5 @@
 ******************************************************************************
-* Author: Jacopo Lunghi
+* Author: Jacopo Lunghi [jacopo.lunghi@cmcc.it]
 * Last modified: 5 June 2024
 * Paper: Street green space and electricity demand: Evidence from metered consumption data
 * Replication code of Figure 9 and Table 5
@@ -9,6 +9,8 @@
 - "$user\month_2g_2020_2023_withprices.dta": monthly consumption data with price paid per kWh (Utility Provider)
 - "$user\scenarios_outputs_comunelevel.csv": GVI scenarios (see Table 4)
 - "$user\DCSS_FAM_POP_12032025153830449.csv": Households in Italy by municipality (ISTAT)
+
+Please refer to the author for more specifics about how to replicate these files
 */
 
 
